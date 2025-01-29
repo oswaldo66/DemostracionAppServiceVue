@@ -1,0 +1,1 @@
+C:\Sistemas Creados\NET\ProyectosAzure\DemostracionAppServiceVUE\obj\Debug\demostracionappservicevue.esproj.CoreCompileInputs.cache
